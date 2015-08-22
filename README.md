@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+
 # LaTeX source code of my MSc project proposal
 
 ## A Multi-Purpose Recommender Framework
@@ -13,6 +15,12 @@ for the Degree of MSc Business Technologies
 Department of Computer Science & Information Systems
 Birkbeck College, University of London
 
+## Links
+
+- [Submitted final PDF version](https://github.com/halk/msc-project-proposal/releases/download/final/MSc_Proposal_Halil_Koklu.pdf).
+- Ongoing work on the [report](https://github.com/halk/msc-project-report)
+- Resulting [projects](https://github.com/recowise-vagrant)
+
 ## Build
 
 1. Install MacTeX
@@ -23,4 +31,4 @@ Birkbeck College, University of London
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Proposal for a Multi-Purpose Recommender Framework</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/halk/msc-project-proposal" property="cc:attributionName" rel="cc:attributionURL">Halil Köklü</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Proposal for a Multi-Purpose Recommender Framework</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/halk/msc-project-proposal" property="cc:attributionName" rel="cc:attributionURL">Halil Köklü</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
