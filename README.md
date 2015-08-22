@@ -19,7 +19,7 @@ Birkbeck College, University of London
 
 - [Submitted final PDF version](https://github.com/halk/msc-project-proposal/releases/download/final/MSc_Proposal_Halil_Koklu.pdf).
 - Ongoing work on the [report](https://github.com/halk/msc-project-report)
-- Resulting [projects](https://github.com/recowise-vagrant)
+- Resulting [projects](https://github.com/halk/recowise-vagrant)
 
 ## Build
 
